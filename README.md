@@ -9,5 +9,30 @@ My Aim to understand the  business problems and leveraging data intelligence , i
 
 Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlLWJkYjYtNzdmYzc3NWFmZTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-##Tech Skills :
+Tech Skills :
+
+1.SQL
+2.PowerBi Desktop,
+3.Excel
+4.DAX language
+5.DAX Studio (for report optimization)
+6.Project charter file
+
+PowerBI Techniques Upskilled:
+
+1. Asking the right questions before starting a project
+2. Creating calculated columns
+3. Creating measures using the DAX language
+4. Data modeling
+5. Using Bookmarks to switch between visuals
+6. Page navigation with buttons
+7. Preventing zero division errors using the divide function
+8. Dynamic titles based on applied filters
+9. Using KPI indicators
+10. Conditional formatting of visual values with icons or background colour
+11. Data validation techniques
+12. Publishing reports to Power BI services
+13. Setting up a personal gateway for data auto-refresh
+14. Creating PowerBi Apps
+15. Collaborating, managing workspaces, and setting access permissions in Power BI services
 
