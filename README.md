@@ -9,7 +9,7 @@ My Aim to understand the  business problems and leveraging data intelligence , i
 
 Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlLWJkYjYtNzdmYzc3NWFmZTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-Tech Skills :
+## Tech Skills :
 
 1.PowerBi Desktop,
 2.Excel
@@ -17,7 +17,7 @@ Tech Skills :
 4.DAX Studio (for report optimization)
 5.Project charter file
 
-PowerBI Techniques Upskilled:
+## PowerBI Techniques Upskilled:
 
 1. Asking the right questions before starting a project
 2. Creating calculated columns
