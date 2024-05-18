@@ -10,11 +10,11 @@ Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlL
 
 ## Tech Skills :
 
-1.PowerBi Desktop,
-2.Excel
-3.DAX language
-4.DAX Studio (for report optimization)
-5.Project charter file
+1. PowerBi Desktop,
+2. Excel
+3. DAX language
+4. DAX Studio (for report optimization)
+5. Project charter file
 
 ## PowerBI Techniques Upskilled:
 
