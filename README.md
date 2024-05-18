@@ -1,6 +1,6 @@
 # Revenue-Insights-in-Hospitality-Domain
 
-AtliQ Grands ,a conspicuous,Player in Indian hospitality industry,
+AtliQ Grands ,a conspicuous Player in Indian hospitality industry,
 
 Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category.
  As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data
