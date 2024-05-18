@@ -52,6 +52,9 @@ My Aim to understand the  business problems and leveraging data intelligence , i
  ![Home_HA](https://github.com/Rajeswari-kotha/Revenue-Insights-in-Hospitality-Domain/assets/162559903/810cabb1-8196-40df-8fc8-bcaab862e02f)
 
  ![Overall Analysis](https://github.com/Rajeswari-kotha/Revenue-Insights-in-Hospitality-Domain/assets/162559903/6ee0c847-de92-4000-9d70-80556f769cd2)
+
+ 
+![Revenue Analysis](https://github.com/Rajeswari-kotha/Revenue-Insights-in-Hospitality-Domain/assets/162559903/b00cc9da-61eb-49b8-8e0f-6bbd2eeebc2d)
  
  
 
