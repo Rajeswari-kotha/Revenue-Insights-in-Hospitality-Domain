@@ -35,3 +35,11 @@ Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlL
 14. Creating PowerBi Apps
 15. Collaborating, managing workspaces, and setting access permissions in Power BI services
 
+## Company Background:
+
+AtliQ Grands owns multiple five-star hotels across India
+They have been in the hospitality industry for the past 20 years
+AtliQ Grand Owns a collection of five star hotels in Major cities such as Delhi , Mumbai, Hyderabad, Bangalore  
+Hotel category are luxury/business
+Type of Rooms :Standard, Elite, Premium , Presidential.
+
