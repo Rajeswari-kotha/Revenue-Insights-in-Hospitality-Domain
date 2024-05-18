@@ -7,4 +7,7 @@ Due to strategic moves from other competitors and ineffective decision-making in
  
 My Aim to understand the  business problems and leveraging data intelligence , i will  alSo provide a board view of Revenue growth trends, room  Optimization and Booking analysis and provide the meaningful insights and recommendations for sustanable growth 
 
-#Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlLWJkYjYtNzdmYzc3NWFmZTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYTlkNWM3MzItNGIxNy00ZDRlLWJkYjYtNzdmYzc3NWFmZTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+##Tech Skills :
+
